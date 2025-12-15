@@ -12,7 +12,7 @@ cd XIDLE-Net
 * Please download the dataset from [here](https://drive.google.com/drive/folders/1D0XnvuNAHacTRnIhOvPdk7PCpPJnc_v7?usp=sharing) and then place it in `./XIDLE-Net/dataset`.
 
 ### Pre-trained Weight
-* Please download pre-trained weights on ImageNet-22K from [here](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window7_224_22k.pth) and place it in `./XIDLE-Net/model_data/`.
+* Please download pre-trained weights on ImageNet-22K from [here](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window7_224_22k.pth) and place it in `./XIDLE-Net/Module/model_data/`.
 
 ### Model Download
 * Please download the XIDLE-Net model weight from [here](https://drive.google.com/file/d/1AFHo5VRv_bwVzMNUIf0nOWFElAzpAUCQ/view?usp=sharing) and then place it in `./XIDLE-Net/Module/model_weight/`.
